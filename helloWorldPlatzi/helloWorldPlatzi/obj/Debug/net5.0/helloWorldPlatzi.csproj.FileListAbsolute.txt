@@ -1,0 +1,16 @@
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\helloWorldPlatzi.exe
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\helloWorldPlatzi.deps.json
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\helloWorldPlatzi.runtimeconfig.json
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\helloWorldPlatzi.runtimeconfig.dev.json
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\helloWorldPlatzi.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\ref\helloWorldPlatzi.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\bin\Debug\net5.0\helloWorldPlatzi.pdb
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.csproj.AssemblyReference.cache
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.AssemblyInfoInputs.cache
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.AssemblyInfo.cs
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.csproj.CoreCompileInputs.cache
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\ref\helloWorldPlatzi.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.pdb
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\helloWorldPlatzi\helloWorldPlatzi\obj\Debug\net5.0\helloWorldPlatzi.genruntimeconfig.cache
