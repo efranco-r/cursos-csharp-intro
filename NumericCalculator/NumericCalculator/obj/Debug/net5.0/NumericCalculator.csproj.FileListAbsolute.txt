@@ -1,0 +1,16 @@
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\NumericCalculator.exe
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\NumericCalculator.deps.json
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\NumericCalculator.runtimeconfig.json
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\NumericCalculator.runtimeconfig.dev.json
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\NumericCalculator.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\ref\NumericCalculator.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\bin\Debug\net5.0\NumericCalculator.pdb
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.csproj.AssemblyReference.cache
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.AssemblyInfoInputs.cache
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.AssemblyInfo.cs
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\ref\NumericCalculator.dll
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.pdb
+C:\Projects\pocs\platzi\c#\cursos-csharp-intro\NumericCalculator\NumericCalculator\obj\Debug\net5.0\NumericCalculator.genruntimeconfig.cache
